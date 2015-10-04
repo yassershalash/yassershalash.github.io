@@ -137,6 +137,7 @@ PAGE: ABOUT
 
 .profile-photo {
   display: block;
+  clear: both;
   max-width: 150px;
   margin: 0 auto 30px;
   border-radius: 100%;
@@ -192,9 +193,9 @@ body {
 header {
   background: #8C489F;
   border-color: #599a68;
-} 
+}
 
-/* nav background on mobile*/ 
+/* nav background on mobile*/
 nav {
   background: #443266;
 }
